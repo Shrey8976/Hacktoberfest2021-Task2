@@ -1,8 +1,54 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
-    font-size: 10px;
+    font-size: 15px;
 }
+
+#name{
+    color:blue;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li {
+        display: inline;
+ }
+
+#cn{
+       font-style: italic;
+
+}
+
+html{
+background-color: yellow;
+}
+
+center{
+ text-align: center;
+}
+
+#u1{
+    color: orange;
+}
+
+#u2{
+   color: white;
+}
+
+#u3{
+    color: blue;
+ }
+
+ #u4{
+    color: green;
+ }
+
+#u5{
+    color: green;
+ }
+ 
